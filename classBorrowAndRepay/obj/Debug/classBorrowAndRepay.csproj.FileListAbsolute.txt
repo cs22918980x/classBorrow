@@ -1,0 +1,9 @@
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\bin\Debug\classBorrowAndRepay.exe
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\bin\Debug\classBorrowAndRepay.pdb
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.csprojResolveAssemblyReference.cache
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.Form1.resources
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.Properties.Resources.resources
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.csproj.GenerateResource.cache
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.csproj.CoreCompileInputs.cache
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.exe
+c:\users\atm\source\repos\classBorrowAndRepay\classBorrowAndRepay\obj\Debug\classBorrowAndRepay.pdb
